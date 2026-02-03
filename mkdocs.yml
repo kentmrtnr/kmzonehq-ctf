@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: CTF KMZONEHQ
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: green
+    accent: deep purple
