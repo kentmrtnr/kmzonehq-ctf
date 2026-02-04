@@ -3,8 +3,8 @@ site_url: https://ctf.kmzonehq.com
 theme:
   name: material
   palette:
-    primary: 'indigo'
-    accent: 'pink'
+    primary: 'slate'
+    accent: 'green'
 
 nav:
   - Home: index.md
@@ -16,9 +16,9 @@ nav:
       - Special Rooms:
           - Dante: htb/special-rooms/dante.md
   - TryHackMe:
-      - Overview: tryhackme/index.md
+      - Overview: thm/index.md
       - Rooms:
-          - Room 1: tryhackme/rooms/room1.md
+          - Room 1: thm/rooms/room1.md
   - Vuln:
       - Overview: vuln/index.md
       - Rooms:
