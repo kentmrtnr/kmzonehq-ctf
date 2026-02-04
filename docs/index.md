@@ -1,17 +1,40 @@
-# Catch the Flags 
+# Welcome to KMZONEHQ CTF
 
+Welcome to my CTF documentation hub! Here, you’ll find my walkthroughs, notes, and thoughts on hacking labs, vulnerabilities, and certifications I’m exploring.  
 > This demonstrates my thought process and my approach to creative challenges.
+---
 
-## Commands
+## 🕹️ Platforms
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Hack The Box (HTB)
+- [Rooms](htb/rooms/room1.md) – Practical labs I’ve completed  
+- [Special Rooms](htb/special-rooms/dante.md) – Unique challenges like Dante  
 
-## Project layout
+### TryHackMe
+- [Rooms](tryhackme/rooms/room1.md) – Step-by-step walkthroughs  
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Vulnerabilities
+- [Vuln Labs](vuln/rooms/vuln1.md) – Research and exploitation notes  
+
+---
+
+## 📜 Certifications
+
+### TCM PJPT
+- My personal review and thoughts on the training and exam  
+- Strategies, tips, and reflections  
+
+---
+
+## 🔗 Quick Links
+- [HTB Overview](htb/index.md)  
+- [TryHackMe Overview](tryhackme/index.md)  
+- [Vuln Overview](vuln/index.md)  
+- [Certifications Overview](certifications/tcm-pjpt.md)  
+
+---
+
+> ⚡ Tip: Use the sidebar to navigate through rooms and special challenges. All notes are written in Markdown for easy readability.  
+
+---
+
