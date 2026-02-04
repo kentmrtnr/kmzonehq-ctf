@@ -1,7 +1,33 @@
-site_name: CTF KMZONEHQ
+site_name: KMZONEHQ CTF
+site_url: https://ctf.kmzonehq.com
 theme:
   name: material
   palette:
-    scheme: slate
-    primary: green
-    accent: deep purple
+    primary: 'indigo'
+    accent: 'pink'
+
+nav:
+  - Home: index.md
+  - HTB:
+      - Overview: htb/index.md
+      - Rooms: 
+          - Room 1: htb/rooms/room1.md
+          - Room 2: htb/rooms/room2.md
+      - Special Rooms:
+          - Dante: htb/special-rooms/dante.md
+  - TryHackMe:
+      - Overview: tryhackme/index.md
+      - Rooms:
+          - Room 1: tryhackme/rooms/room1.md
+  - Vuln:
+      - Overview: vuln/index.md
+      - Rooms:
+          - Vuln 1: vuln/rooms/vuln1.md
+  - Certifications:
+      - TCM PJPT: certifications/tcm-pjpt.md
+
+plugins:
+  - search
+markdown_extensions:
+  - toc:
+      permalink: true
