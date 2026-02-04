@@ -1,6 +1,6 @@
 # Catch the Flags 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+> This demonstrates my thought process and my approach to creative challenges.
 
 ## Commands
 
