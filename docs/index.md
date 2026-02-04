@@ -1,7 +1,7 @@
 # Welcome to KMZONEHQ CTF
 
 Welcome to my CTF documentation hub! Here, you’ll find my walkthroughs, notes, and thoughts on hacking labs, vulnerabilities, and certifications I’m exploring.  
-> This demonstrates my thought process and my approach to creative challenges.
+This demonstrates my thought process and my approach to creative challenges.
 ---
 
 ## 🕹️ Platforms
